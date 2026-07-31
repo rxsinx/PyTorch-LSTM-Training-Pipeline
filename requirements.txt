@@ -1,0 +1,9 @@
+torch
+numpy
+pandas
+scikit-learn
+kiteconnect
+matplotlib
+seaborn
+mlflow
+tqdm
